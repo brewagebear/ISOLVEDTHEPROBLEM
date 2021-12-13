@@ -1,4 +1,12 @@
 # ISOLVEDTHEPROBLEM
 
-## csj4032 풀고 싶은 문제
--- 로또의 최고 순위와 최저 순위[https://programmers.co.kr/learn/courses/30/lessons/77484]
+## 금주의 문제 보기
+https://github.com/dailyworker/ISOLVEDTHEPROBLEM/discussions
+
+## 참여자
++ 리더 : @csj4032
++ 참가자 : @dailyworker
++ 참가자 : @Tianea2160
++ 참가자 : @abcdsds
++ 참가자 : @phc8388
++ 참가자 : @Hwanse
