@@ -10,10 +10,7 @@ class CranePuppetGameTest {
     @Test
     public void solution() throws Exception {
         // given
-
-        // when & then
         CranePuppetGame sol = new CranePuppetGame();
-
         int[][] board = {
             {0, 0, 0, 0, 0},
             {0, 0, 1, 0, 3},
@@ -22,6 +19,8 @@ class CranePuppetGameTest {
             {3, 5, 1, 3, 1}
         };
         int[] moves = new int[] {1,5,3,5,1,2,1,4};
+
+        // when & then
         assertEquals(4, sol.solution(board, moves));
     }
 
