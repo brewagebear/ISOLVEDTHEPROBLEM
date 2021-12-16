@@ -8,5 +8,6 @@ https://github.com/dailyworker/ISOLVEDTHEPROBLEM/discussions
 + 참가자 : @dailyworker
 + 참가자 : @Tianea2160
 + 참가자 : @abcdsds
-+ 참가자 : @phc8388
++ 참가자 : @pch8388
 + 참가자 : @Hwanse
++ 참가자 : @gyuzero
